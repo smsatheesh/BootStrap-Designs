@@ -83,6 +83,13 @@ body {
     margin: 0 10px;
     box-shadow: 0px 49px 40px rgba(50, 50, 71, 0.05);
     padding: 10%;
+    height: 100%;
+  }
+
+  .spacer:hover {
+    background-color: black;
+    color: white;
+    text-decoration: underline;
   }
 
   #press {
